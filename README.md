@@ -32,6 +32,6 @@ This project is a Lead Scoring Case Study, built as part of the UpGrad Data Scie
 
 <h4>Model Outcomes</h4>
 
-1. This classification model can be deployed to help the business accurately predict outcomes (e.g., lead conversion) with 96% accuracy.
+1. This classification model can be deployed to help the business accurately predict outcomes (e.g., lead conversion).
 2. The high precision and recall for both classes ensure that the model minimizes both false positives (incorrectly predicting a lead would convert) and false negatives (missing out on actual lead conversions).
 3. A high ROC AUC score indicates the model can strongly differentiate between both classes, further enhancing its performance.
