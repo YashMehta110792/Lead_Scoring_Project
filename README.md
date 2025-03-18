@@ -23,7 +23,7 @@ This project is a Lead Scoring Case Study, built as part of the UpGrad Data Scie
 
 <h4>Exploratory Analysis Outcomes</h4>
 
-1. The overall lead conversion so far has been 47.1%. The analysis suggests that leads tagged with high-intent indicators (like 'Closed by Horizzon' or 'Interested in Next batch') are more likely to convert.
+1. The analysis suggests that leads tagged with high-intent indicators (like 'Closed by Horizzon' or 'Interested in Next batch') are more likely to convert.
 2. Channels like Websites and References have led to the most conversions (>90%), while social media and search engines like google came up far second (60-70%).
 3. Developing countries with lesser technology adaptibility such as Bahrain and Bangladesh dominate the successful conversions demographics, while Working Professionals in the field of Management also carry the same weightage.
 4. Successful conversions have spent an average of 1.5x time of the unsuccessful conversions on the website. Moreover, a low bounce rate (6.42%) indicates that once anyone enters the website, they are more likely to explore it beyond the first few webpages.
